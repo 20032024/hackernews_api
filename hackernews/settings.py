@@ -45,14 +45,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'graphene_django',
     'links',
-    'header',
-    'education',
-    'workexperience',
-    'skills',
-    'languajes',
-    'interests',
     'corsheaders',
-#    'django_nose',
 ]
 
 MIDDLEWARE = [
